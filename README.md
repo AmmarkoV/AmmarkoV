@@ -17,7 +17,7 @@ Ammar Qammaz
 ==============
 
 
-![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/9727_125462443039_765168039_2485827_117031_n.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg)
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg)
 
  
 
@@ -106,3 +106,7 @@ Contact
 E-Mail : ammarkov at gmail dot com, WWW: http://ammar.gr/ , https://www.openhub.net/accounts/AmmarkoV
 Github : https://github.com/AmmarkoV/, YouTube: http://www.youtube.com/user/ammarkov
 Linked-In : https://www.linkedin.com/in/ammar-qammaz-b7676240/
+
+
+
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png)
