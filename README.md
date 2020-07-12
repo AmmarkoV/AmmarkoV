@@ -102,13 +102,12 @@ I have an INTJ Myers-Briggs personality type indicator. In my spare time I like 
 
 Nationality/Languages
 --------------
-I have a Greek Nationality, I speak Greek (native speaker),  English (FCE, CPE Cambridge diplomas) and I have rudimentary knowledge of the German language.
+I have a Greek Nationality, I speak Greek (native speaker), English (FCE, CPE Cambridge diplomas) and I have rudimentary knowledge of the German language.
 
 Contact 
 --------------
-E-Mail : ammarkov at gmail dot com, WWW: http://ammar.gr/ , https://www.openhub.net/accounts/AmmarkoV
-Github : https://github.com/AmmarkoV/, YouTube: http://www.youtube.com/user/ammarkov
-Linked-In : https://www.linkedin.com/in/ammar-qammaz-b7676240/
+[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV)
+[Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/)
 
 
 
