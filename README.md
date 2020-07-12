@@ -69,7 +69,7 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
--M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older1Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
+- M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
 - A. Qammaz and A.A. Argyros, "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images", In British Machine Vision Conference (BMVC 2019), BMVA, Cardiff, UK, September 2019. 
 - A. Qammaz, Sokol Kosta, Nikolaos Kyriazis, Antonis Argyros, “Demo: Distributed Real-Time Generative 3D Hand Tracking using Edge GPGPU Acceleration”, ACM International Conference on Mobile Systems, Applications, and Services 2018 
 - A. Qammaz, Sokol Kosta, Nikolaos Kyriazis, Antonis Argyros, “On the Feasibility of Real-Time 3D Hand Tracking using Edge GPGPU Acceleration”, 2018 , arXiv:1804.11256
