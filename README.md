@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 Ammar Qammaz
 ==============
 
+
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/9727_125462443039_765168039_2485827_117031_n.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg)
+
+ 
+
+ 
+
+
 Early life / Short Biography
 --------------
 I was born in 11/08/1986 and I started being interested in computers and electronics at the age of 9 when my parents bought me my first Personal Computer. Being fortunate enough to have the president of the Greek Linux User Group at that time as my teacher in a computer class, I was introduced to the Linux Operating System and learned my first programming language, FreePascal, at the age of 14. At the age of 18, I was chosen for the runner up Greek team at the International Olympiad of Informatics (IOI) after succeeding in a national programming contest for students.
@@ -76,6 +84,10 @@ Programming Εxperience (Automated OpenSource tracker : https://www.openhub.net/
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab  
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
 Frameworks : ROS, wxWidgets, OpenGL, GLSL, OpenAL, OpenCV, CUDA, Tensorflow, Keras, Git, Numpy 
+
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/openhub.png)
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/ohloh.png)
+
 
 Research Interests
 --------------
