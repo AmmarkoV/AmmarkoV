@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Ammar Qammaz
+Ammar Qammaz
 ==============
 
 Early life / Short Biography
@@ -42,15 +42,16 @@ Highlights and Milestones
 
 Participation in European Research Projects 
 --------------
-    • Mingei Project – H2020 grant no. 822336 - http://www.mingei-project.eu/ 2018-2020
+
+* Mingei Project – H2020 grant no. 822336 - http://www.mingei-project.eu/ 2018-2020
 Video recording and 3D pose estimation from videos of experts performing various historically important procedures 
-    • Co4Robots – H2020-ICT-2016-1-73186 - https://www.co4robots.eu/ 2017-2019
+* Co4Robots – H2020-ICT-2016-1-73186 - https://www.co4robots.eu/ 2017-2019
 Preparing deliverables, human perception, platform video post production
-    • RAPID Project – H2020-ICT-644312 - http://www.rapid-project.eu/ 2015-2017
+* RAPID Project – H2020-ICT-644312 - http://www.rapid-project.eu/ 2015-2017
 Hand Tracking using heterogeneous computing for Low-Power Integrated Systems and Devices
-    • Hobbit The Mutual Care Robot  - FP7-ICT-288146 - http://hobbit.acin.tuwien.ac.at/  2012 – 2015
+* Hobbit The Mutual Care Robot  - FP7-ICT-288146 - http://hobbit.acin.tuwien.ac.at/  2012 – 2015
 Participation in Implementation /Project Review Meetings, Integration Work of FORTH Software with ROS, System design/tuning, Load Balancing, web interface/UI work using AmmarServer . A very challenging project and to the best of my knowledge, the first time in human history conducting live trials with autonomous robots in user homes.
-    • Robohow.cog  - FP7-ICT-288533 - http://robohow.eu/  2012 – 2015
+* Robohow.cog  - FP7-ICT-288533 - http://robohow.eu/  2012 – 2015
 Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publciation ), Performance Improvements (See BMVC 15  submission).
 
 
