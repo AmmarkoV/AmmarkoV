@@ -63,7 +63,7 @@ Participation in Implementation /Project Review Meetings, Integration Work of FO
 Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publciation ), Performance Improvements (See BMVC 15  submission).
 
 
-Publications  (Full list : https://scholar.google.gr/citations?user=sDOdhtwAAAAJ)
+Publications  ([Full list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
 -M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older1Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
@@ -79,7 +79,7 @@ Publications  (Full list : https://scholar.google.gr/citations?user=sDOdhtwAAAAJ
 - A. Qammaz, N. Kyriazis and A.A. Argyros, "Boosting the Performance of Model-based 3D Tracking by Employing Low Level Motion Cues", In British Machine Vision Conference (BMVC 2015), BMVA, pp. 144-1, Swansea, UK, September 2015. 
 -  T.-H. Pham, A. Kheddar, A. Qammaz and A.A. Argyros, "Towards force sensing from vision: Observing hand-object interactions to infer manipulation forces", In IEEE Computer Vision and Pattern Recognition (CVPR 2015), IEEE, pp. 2810-2819, Boston, USA, June 2015.
 
-Programming Εxperience (Automated OpenSource tracker : https://www.openhub.net/accounts/154125)
+Programming Εxperience ( [Automated OpenSource tracker here](https://www.openhub.net/accounts/154125) )
 --------------
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab  
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
