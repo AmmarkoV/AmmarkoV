@@ -20,18 +20,19 @@ Ammar Qammaz
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg)
 
  
-
- 
-
-
 Early life / Short Biography
 --------------
+
 I was born in 11/08/1986 and I started being interested in computers and electronics at the age of 9 when my parents bought me my first Personal Computer. Being fortunate enough to have the president of the Greek Linux User Group at that time as my teacher in a computer class, I was introduced to the Linux Operating System and learned my first programming language, FreePascal, at the age of 14. At the age of 18, I was chosen for the runner up Greek team at the International Olympiad of Informatics (IOI) after succeeding in a national programming contest for students.
+
 Due to my IOI involvement, I received a personal invitation from the Athens University of Economics and Business to enroll at its Computer Science program. Unfortunately, the Computer Science program didn't live up to my expectations. I started a small startup computer software business offering database / e-mail / e-commerce services and some in-house developed products that are still used in production today. The whole effort naturally gravitated towards Open Source until I resumed my University studies leaving software development jobs as a part-time activity, but always providing support to all my existing projects and customers.
 In 2007, around the fifth semester of my studies, I encountered computer graphics and its reverse problem, computer vision, which I found to be the most fascinating computer science research field. I started to work on my BSc thesis on a small self-navigating robot called GuarddoG which utilized Stereoscopy to navigate in indoor environments. The robot was a success gaining awards in exhibitions and local TV coverage in Greece, the culmination of which was my participation in the International Fair of Thessaloniki 2011.
+
 During the next year, I fulfilled my mandatory military service in Greece, serving as a communications system operator. I also contributed with writing software to automate some standard procedures. After a few months, I got transferred to HNDGS – NATO headquarters in Athens in a critical position handling sensitive classified signals until the end of my service.
 After my military service, I joined the Computer Vision and Robotics Laboratory (CVRL) at the Foundation For Research and Technology – Hellas (FORTH) were I have remained ever since. I have been involved in various challenging European Research Projects that primarily used computer vision in household robotics (listed in detail in a section below).
+
 In order to further improve my knowledge and skills, I started a MSc degree in University of Crete in 2015 while also receiving a scholarship from FORTH-CVRL. The focus of my studies was computer vision, robot navigation, graphics and knowledge bases. My MSc thesis “A Hybrid Method for 3D Pose Estimation of Personalized Human Body Models” deals with the problem of 3D human tracking while also employing neural networks and state of the art human model reconstruction techniques. I recently enrolled in a PhD program that started in 2019 and is due in 2022.
+
 I have a strong and diverse computer related background that extends from a full curriculum of computer science studies down to low-level electronics and hands-on technical experience and knowledge. I consider myself very lucky because what started out as a passionate hobby for me, as a self-taught programmer at age 14 trying to create virtual worlds inside my computer, has come full circle, allowing me to pursue my dreams through passionate research, making programs that can now perceive and act in the real world. Through events like the European researchers` night and school demos organized by the local municipality, I have had the chance to show my work to a new generation of young Greek students that have been brought up in times of great economical adversity, hopefully inspiring them to find their calling. Through my role as a teaching assistant in introductory programming and mathematics courses, I have had the chance of helping freshmen in the Computer Science department to build a solid foundation for their studies.
 Highlights and Milestones
 
@@ -63,7 +64,7 @@ Participation in Implementation /Project Review Meetings, Integration Work of FO
 Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publciation ), Performance Improvements (See BMVC 15  submission).
 
 
-Publications  ([Full list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
+Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
 -M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older1Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
