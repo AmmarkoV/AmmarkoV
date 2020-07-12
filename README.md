@@ -34,7 +34,9 @@ After my military service, I joined the Computer Vision and Robotics Laboratory 
 In order to further improve my knowledge and skills, I started a MSc degree in University of Crete in 2015 while also receiving a scholarship from FORTH-CVRL. The focus of my studies was computer vision, robot navigation, graphics and knowledge bases. My MSc thesis “A Hybrid Method for 3D Pose Estimation of Personalized Human Body Models” deals with the problem of 3D human tracking while also employing neural networks and state of the art human model reconstruction techniques. I recently enrolled in a PhD program that started in 2019 and is due in 2022.
 
 I have a strong and diverse computer related background that extends from a full curriculum of computer science studies down to low-level electronics and hands-on technical experience and knowledge. I consider myself very lucky because what started out as a passionate hobby for me, as a self-taught programmer at age 14 trying to create virtual worlds inside my computer, has come full circle, allowing me to pursue my dreams through passionate research, making programs that can now perceive and act in the real world. Through events like the European researchers` night and school demos organized by the local municipality, I have had the chance to show my work to a new generation of young Greek students that have been brought up in times of great economical adversity, hopefully inspiring them to find their calling. Through my role as a teaching assistant in introductory programming and mathematics courses, I have had the chance of helping freshmen in the Computer Science department to build a solid foundation for their studies.
+
 Highlights and Milestones
+--------------
 
 * 2019 First semester paper about a realtime 3D Pose estimation method “MocapNET” accepted at BMVA BMVC 2019
 * 2019 Started a PhD in the Computer Science department of the University of Crete
