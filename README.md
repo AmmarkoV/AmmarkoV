@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Ammar Qammaz
+==============
 
-##Early life / Short Biography
+Early life / Short Biography
+--------------
 I was born in 11/08/1986 and I started being interested in computers and electronics at the age of 9 when my parents bought me my first Personal Computer. Being fortunate enough to have the president of the Greek Linux User Group at that time as my teacher in a computer class, I was introduced to the Linux Operating System and learned my first programming language, FreePascal, at the age of 14. At the age of 18, I was chosen for the runner up Greek team at the International Olympiad of Informatics (IOI) after succeeding in a national programming contest for students.
 Due to my IOI involvement, I received a personal invitation from the Athens University of Economics and Business to enroll at its Computer Science program. Unfortunately, the Computer Science program didn't live up to my expectations. I started a small startup computer software business offering database / e-mail / e-commerce services and some in-house developed products that are still used in production today. The whole effort naturally gravitated towards Open Source until I resumed my University studies leaving software development jobs as a part-time activity, but always providing support to all my existing projects and customers.
 In 2007, around the fifth semester of my studies, I encountered computer graphics and its reverse problem, computer vision, which I found to be the most fascinating computer science research field. I started to work on my BSc thesis on a small self-navigating robot called GuarddoG which utilized Stereoscopy to navigate in indoor environments. The robot was a success gaining awards in exhibitions and local TV coverage in Greece, the culmination of which was my participation in the International Fair of Thessaloniki 2011.
@@ -38,8 +40,8 @@ Highlights and Milestones
 * 2003 Chosen for the Greek national team for International Olympiad of Informatics 2004 after a national programming contest (age 18)
 * 1999 Learned my first programming language “FreePascal”, first encounter with a Linux OS (age 14)
 
-##Participation in European Research Projects 
-
+Participation in European Research Projects 
+--------------
     • Mingei Project – H2020 grant no. 822336 - http://www.mingei-project.eu/ 2018-2020
 Video recording and 3D pose estimation from videos of experts performing various historically important procedures 
     • Co4Robots – H2020-ICT-2016-1-73186 - https://www.co4robots.eu/ 2017-2019
@@ -52,7 +54,9 @@ Participation in Implementation /Project Review Meetings, Integration Work of FO
 Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publciation ), Performance Improvements (See BMVC 15  submission).
 
 
-##Publications  (Full list : https://scholar.google.gr/citations?user=sDOdhtwAAAAJ)
+Publications  (Full list : https://scholar.google.gr/citations?user=sDOdhtwAAAAJ)
+--------------
+
 -M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older1Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
 - A. Qammaz and A.A. Argyros, "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images", In British Machine Vision Conference (BMVC 2019), BMVA, Cardiff, UK, September 2019. 
 - A. Qammaz, Sokol Kosta, Nikolaos Kyriazis, Antonis Argyros, “Demo: Distributed Real-Time Generative 3D Hand Tracking using Edge GPGPU Acceleration”, ACM International Conference on Mobile Systems, Applications, and Services 2018 
@@ -66,21 +70,26 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 - A. Qammaz, N. Kyriazis and A.A. Argyros, "Boosting the Performance of Model-based 3D Tracking by Employing Low Level Motion Cues", In British Machine Vision Conference (BMVC 2015), BMVA, pp. 144-1, Swansea, UK, September 2015. 
 -  T.-H. Pham, A. Kheddar, A. Qammaz and A.A. Argyros, "Towards force sensing from vision: Observing hand-object interactions to infer manipulation forces", In IEEE Computer Vision and Pattern Recognition (CVPR 2015), IEEE, pp. 2810-2819, Boston, USA, June 2015.
 
-##Programming Εxperience (Automated OpenSource tracker : https://www.openhub.net/accounts/154125)
+Programming Εxperience (Automated OpenSource tracker : https://www.openhub.net/accounts/154125)
+--------------
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab  
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
 Frameworks : ROS, wxWidgets, OpenGL, GLSL, OpenAL, OpenCV, CUDA, Tensorflow, Keras, Git, Numpy 
 
-##Research Interests
+Research Interests
+--------------
 Computer Vision, Image Processing, Computer Graphics, Robotics, HCI, Deep Neural Networks,  Machine Learining, Artificial Intelligence, Embedded/Ubiquitous Computing.
 
-##Other Information/Interests
+Other Information/Interests
+--------------
 I have an INTJ Myers-Briggs personality type indicator. In my spare time I like flying my custom built Quadcopter, maintaining my open source repositories, watching documentaries, amateur photography and amateur astronomy, sailing, latin dance, traveling and gaming.
 
-##Nationality/Languages
+Nationality/Languages
+--------------
 I have a Greek Nationality, I speak Greek (native speaker),  English (FCE, CPE Cambridge diplomas) and I have rudimentary knowledge of the German language.
 
-##Contact 
+Contact 
+--------------
 E-Mail : ammarkov at gmail dot com, WWW: http://ammar.gr/ , https://www.openhub.net/accounts/AmmarkoV
 Github : https://github.com/AmmarkoV/, YouTube: http://www.youtube.com/user/ammarkov
 Linked-In : https://www.linkedin.com/in/ammar-qammaz-b7676240/
