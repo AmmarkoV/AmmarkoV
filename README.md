@@ -83,8 +83,10 @@ Publications  ( [Automatically updated list here](https://scholar.google.gr/cita
 
 Programming Εxperience ( [Automated OpenSource tracker here](https://www.openhub.net/accounts/154125) )
 --------------
-Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab  
+Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab
+
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
+
 Frameworks : ROS, wxWidgets, OpenGL, GLSL, OpenAL, OpenCV, CUDA, Tensorflow, Keras, Git, Numpy 
 
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/openhub.png)
