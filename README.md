@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Ammar Qammaz
 ==============
 
-![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg)  ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)  
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
 
  
 Early life / Short Biography
@@ -106,7 +106,7 @@ I have a Greek Nationality, I speak Greek (native speaker), English (FCE, CPE Ca
 Contact 
 --------------
 [WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV)
-[Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/)
+[Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
 
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg)
 
