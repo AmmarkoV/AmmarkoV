@@ -84,6 +84,9 @@ Publications  ( [Automatically updated list here](https://scholar.google.gr/cita
 
 Programming Εxperience ( [Automated OpenSource tracker here](https://www.openhub.net/accounts/154125) )
 --------------
+
+I am routinely among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
+
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab
 
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
