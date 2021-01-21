@@ -19,6 +19,11 @@ Ammar Qammaz
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
 
  
+[![AmmarkoV's github stats](https://github-readme-stats.vercel.app/api?username=AmmarkoV)](https://commits.top/greece.html)
+
+I am among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
+
+
 Early life / Short Biography
 --------------
 
@@ -85,7 +90,6 @@ Publications  ( [Automatically updated list here](https://scholar.google.gr/cita
 Programming Εxperience ( [Automated OpenSource tracker here](https://www.openhub.net/accounts/154125) )
 --------------
 
-I am routinely among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
 
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab
 
