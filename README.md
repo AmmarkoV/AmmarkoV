@@ -118,5 +118,8 @@ Contact
 [WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV)
 [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
 
+Donations button!
+[![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
+
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png) 
 
