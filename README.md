@@ -37,11 +37,12 @@ I have a strong and diverse computer related background that extends from a full
 Highlights and Milestones
 --------------
 
-* 2019 First semester paper about a realtime 3D Pose estimation method “MocapNET” accepted at BMVA BMVC 2019
+* 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
+* 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
 * 2019 Started a PhD in the Computer Science department of the University of Crete
-* 2018 Completion of my MSc studies, MSc thesis based paper accepted and presented at IEEE WACV 2018
+* 2018 Completion of my MSc studies, MSc thesis based paper accepted and presented at [IEEE WACV 2018](https://www.youtube.com/watch?v=SCgpIIaRIuI)
 * 2015 Started a Computer Science MSc degree in University of Crete
-* 2015 Publication accepted at IEEE CVPR 2015
+* 2015 Publication accepted at [IEEE CVPR 2015](https://www.youtube.com/watch?v=C4k-FPWM1t0) and [BMVA BMVC 2015](https://www.youtube.com/watch?v=nPru6PpWrK4)
 * 2013 Involvement in the EU Hobbit Project, the first human trials of an assistive robot in homes of elderly people in history!
 * 2012 Joined the Computer Vision and Robotics Laboratory of the Foundation of Research and Technology 
 * 2011 Participation at the International Fair of Thessaloniki with the GuarddoG Project
