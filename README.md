@@ -45,14 +45,14 @@ Highlights and Milestones
 * 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
 * 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
 * 2019 Started a PhD in the Computer Science department of the University of Crete
-* 2018 Completion of my MSc studies, MSc thesis based paper accepted and presented at [IEEE WACV 2018](https://www.youtube.com/watch?v=SCgpIIaRIuI)
+* 2018 Completion of my MSc studies, [MSc thesis](http://ammar.gr/msc.pdf) based paper accepted and presented at [IEEE WACV 2018](https://www.youtube.com/watch?v=SCgpIIaRIuI)
 * 2015 Started a Computer Science MSc degree in University of Crete
 * 2015 Publication accepted at [IEEE CVPR 2015](https://www.youtube.com/watch?v=C4k-FPWM1t0) and [BMVA BMVC 2015](https://www.youtube.com/watch?v=nPru6PpWrK4)
 * 2013 Involvement in the EU Hobbit Project, the first human trials of an assistive robot in homes of elderly people in history!
 * 2012 Joined the Computer Vision and Robotics Laboratory of the Foundation of Research and Technology 
 * 2011 Participation at the International Fair of Thessaloniki with the GuarddoG Project
 * 2008 Best of show award for the GuarddoG project in the Athens Digital Week exhibition
-* 2007 Starting the develoment of my BSc thesis, a small guard robot named “GuarddoG Project” 
+* 2007 Starting the develoment of my [BSc thesis](https://raw.githubusercontent.com/AmmarkoV/RoboVision/master/Documentation/GuarDDoG_RoboVision.pdf), a small guard robot named “[GuarddoG Project](https://github.com/AmmarkoV/RoboVision)” 
 * 2003 Chosen for the Greek national team for International Olympiad of Informatics 2004 after a national programming contest (age 18)
 * 1999 Learned my first programming language “FreePascal”, first encounter with a Linux OS (age 14)
 
