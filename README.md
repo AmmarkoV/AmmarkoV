@@ -19,6 +19,11 @@ Ammar Qammaz
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
 
  
+[![AmmarkoV's github stats](https://github-readme-stats.vercel.app/api?username=AmmarkoV)](https://commits.top/greece.html)
+
+I am among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
+
+
 Early life / Short Biography
 --------------
 
@@ -69,6 +74,7 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
+- A. Qammaz and A.A. Argyros, "Occlusion-tolerant and personalized 3D human pose estimation in RGB images", In IEEE International Conference on Pattern Recognition (ICPR 2020), January 2021.
 - M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
 - A. Qammaz and A.A. Argyros, "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images", In British Machine Vision Conference (BMVC 2019), BMVA, Cardiff, UK, September 2019. 
 - A. Qammaz, Sokol Kosta, Nikolaos Kyriazis, Antonis Argyros, “Demo: Distributed Real-Time Generative 3D Hand Tracking using Edge GPGPU Acceleration”, ACM International Conference on Mobile Systems, Applications, and Services 2018 
@@ -84,6 +90,8 @@ Publications  ( [Automatically updated list here](https://scholar.google.gr/cita
 
 Programming Εxperience ( [Automated OpenSource tracker here](https://www.openhub.net/accounts/154125) )
 --------------
+
+
 Languages : C, C++, Python , Shell scripting (BASH, Csh, Perl ), Java, PHP, MySQL, FreePascal, Matlab
 
 Operating Systems : GNU/Linux, Android, Windows, Embedded systems (ATMEL, PICAXE, AVR, Arduino etc..)
@@ -110,6 +118,11 @@ Contact
 --------------
 [WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV)
 [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
+
+
+
+[![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
+
 
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png) 
 
