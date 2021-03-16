@@ -120,6 +120,11 @@ Contact
 [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
 
 
+Donations : 
+
+BTC: 1Jt9qByDdkb8awS7D5mx3BHSSuToL2NYHK
+Ethereum ERC20: 0xbcf9bd014a454d6c3a6870b0da84e09ce91d3443 
+XMR: 88yp6tXRXZZDZdhKnr3mAq3zS11j2H6zo817DkUZQ968Z7djoUEQhiCT88mFt3yUGXgndJmxNyPThJyU8pbSskNaByp2ocQ
 
 [![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
 
