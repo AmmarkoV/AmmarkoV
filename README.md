@@ -120,7 +120,9 @@ Contact
 [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
 
 
-Donations : 
+Donations
+--------------
+Most of the code in my github repository is open-source, if you find it useful and feel like it you can help me maintain it by donating using the following links
 
 BTC: 1Jt9qByDdkb8awS7D5mx3BHSSuToL2NYHK
 
