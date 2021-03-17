@@ -122,7 +122,7 @@ Contact
 
 Donations
 --------------
-Most of the code in my github repository is open-source, if you find it useful and feel like it you can help me maintain it by donating using the following links
+Most of the code in my github repository is open-source, if you find it useful and feel like it you can help me maintain it by donating to the following cryptocurrency adresses.
 
 BTC: 1Jt9qByDdkb8awS7D5mx3BHSSuToL2NYHK
 
@@ -130,7 +130,7 @@ Ethereum ERC20: 0xbcf9bd014a454d6c3a6870b0da84e09ce91d3443
 
 XMR: 88yp6tXRXZZDZdhKnr3mAq3zS11j2H6zo817DkUZQ968Z7djoUEQhiCT88mFt3yUGXgndJmxNyPThJyU8pbSskNaByp2ocQ
 
-Paypal :
+For more old-school donations here is my paypal :
 
 [![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
 
