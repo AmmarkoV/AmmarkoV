@@ -116,8 +116,7 @@ I have a Greek Nationality, I speak Greek (native speaker), English (FCE, CPE Ca
 
 Contact 
 --------------
-[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV)
-[Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
+[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV), [Google Scholar](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ), [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammar-qammaz-b7676240/), [HackerRank](https://www.hackerrank.com/ammarkov)
 
 
 Donations
