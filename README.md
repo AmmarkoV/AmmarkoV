@@ -20,6 +20,7 @@ Ammar Qammaz
 
  
 [![AmmarkoV's github stats](https://github-readme-stats.vercel.app/api?username=AmmarkoV)](https://commits.top/greece.html) [![AmmarkoV's github stats](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/pdf/cv.jpg)](https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf)
+
 I am among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
 
 
