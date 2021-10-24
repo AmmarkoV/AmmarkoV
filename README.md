@@ -42,6 +42,7 @@ I have a strong and diverse computer related background that extends from a full
 Highlights and Milestones
 --------------
 
+* 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVCA BVMC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
 * 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
 * 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
 * 2019 Started a PhD in the Computer Science department of the University of Crete
@@ -74,6 +75,7 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
+- A. Qammaz and A.A. Argyros, "Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs", In British Machine Vision Conference (BMVC 2021), (to appear), BMVA, Virtual, UK, November 2021.
 - A. Qammaz and A.A. Argyros, "Occlusion-tolerant and personalized 3D human pose estimation in RGB images", In IEEE International Conference on Pattern Recognition (ICPR 2020), January 2021.
 - M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
 - A. Qammaz and A.A. Argyros, "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images", In British Machine Vision Conference (BMVC 2019), BMVA, Cardiff, UK, September 2019. 
