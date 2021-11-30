@@ -42,7 +42,7 @@ I have a strong and diverse computer related background that extends from a full
 Highlights and Milestones
 --------------
 
-* 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVCA BVMC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
+* 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BVMC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
 * 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
 * 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
 * 2019 Started a PhD in the Computer Science department of the University of Crete
