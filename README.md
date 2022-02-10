@@ -110,7 +110,7 @@ Computer Vision, Image Processing, Computer Graphics, Robotics, HCI, Deep Neural
 
 Other Information/Interests
 --------------
-I have an INTJ Myers-Briggs personality type indicator. In my spare time I like flying my custom built Quadcopter, maintaining my open source repositories, watching documentaries, amateur photography and amateur astronomy, sailing, latin dance, traveling and gaming.
+I have an INTJ Myers-Briggs personality type indicator. In my spare time I like flying my custom built Quadcopter, maintaining my open source repositories, watching documentaries, [amateur photography](https://www.deviantart.com/ammarkov1) and amateur astronomy, sailing, latin dance, traveling and [gaming](https://steamcommunity.com/id/ammarkov/).
 
 Nationality/Languages
 --------------
