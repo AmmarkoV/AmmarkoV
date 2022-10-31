@@ -42,6 +42,9 @@ I have a strong and diverse computer related background that extends from a full
 Highlights and Milestones
 --------------
 
+* 2022 [PhD work on MocapNET awarded a BonsApps (EU H2020 no.101015848) AI Talent grant (Winner No. Bons\_1OC\_20)](https://bonsapps-1oc-ai-talents.fundingbox.com/) 
+* 2022 [PhD Scholarship to participate in the ARCHIMEDES Greek ML/AI Summer School after national selection.](https://www.athenarc.gr/en/news/archimedes-summer-program-2022) 
+* 2021 [Recipient of the “Maria Michail Manasaki” Bequest Fellowship for the work carried out during the first year of my PhD](https://www.csd.uoc.gr/CSD/index.jsp?custom=manasakis\&lang=en) 
 * 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BVMC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
 * 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
 * 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
