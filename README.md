@@ -78,7 +78,11 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
-- A. Qammaz and A.A. Argyros, "Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs", In British Machine Vision Conference (BMVC 2021), (to appear), BMVA, Virtual, UK, November 2021.
+- S. Panagou, M. Sileo, K. Papoutsakis, F. Fruggiero, A. Qammaz and A.A. Argyros, "Complexity based investigation in collaborative assembly scenarios via non intrusive techniques", Procedia Computer Science, Special issue, 4th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2022), Elsevier, vol. 217, pp. 478-485, 2023. 
+- A. Qammaz and A. Argyros, "A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs", In International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023), (to appear), IEEE, Paris, France, October 2023.
+- A. Qammaz and A. Argyros, "Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction", In International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2023), ACM, pp. 306-312, Corfu, Greece, July 2023.
+- H. Hauser, C. Beisswenger, N. Partarakis, X. Zabulis, I. Adami, E. Zidianakis, A. Patakos, N. Patsiouras, E. Karuzaki, M. Foukarakis, A. Tsoli, A. Qammaz, A. Argyros, N. Cadi, E. Baka, N.M. Thalmann, B. Olivias, D. Makrygiannis, A. Glushkova, S. Manitsaris, V. Nitti and L. Panesse, "Multimodal Narratives for the Presentation of Silk Heritage in the Museum", MDPI, vol. 5, no. 1, pp. 461-487, 2022. 
+- A. Qammaz and A.A. Argyros, "Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs", In British Machine Vision Conference (BMVC 2021), BMVA, Virtual, UK, November 2021.
 - A. Qammaz and A.A. Argyros, "Occlusion-tolerant and personalized 3D human pose estimation in RGB images", In IEEE International Conference on Pattern Recognition (ICPR 2020), January 2021.
 - M. Bajones, D. Fischinger, A. Weiss, P. Puente, D. Wolf, M. Vincze, T. Kortner, M. Weninger, K. Papoutsakis, D. Michel, A. Qammaz, P. Panteleris, M. Foukarakis, I. Adami, D. Ioannidi, A. Leonidis, M. Antona, A. Argyros, P. Mayer, P. Panek, H. Eftring, S. Frennert, "Results of Field Trials with a Mobile Service Robot for Older Adults in 16 Private Households" To Appear in ACM Transactions on Human-Robot Interaction, ACM 2019
 - A. Qammaz and A.A. Argyros, "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images", In British Machine Vision Conference (BMVC 2019), BMVA, Cardiff, UK, September 2019. 
@@ -119,9 +123,9 @@ Nationality/Languages
 --------------
 I have a Greek Nationality, I speak Greek (native speaker), English (FCE, CPE Cambridge diplomas) and I have rudimentary knowledge of the German language.
 
-Contact 
+Links 
 --------------
-[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV), [Google Scholar](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ), [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammarkov/), [HackerRank](https://www.hackerrank.com/ammarkov), [Instagram](https://www.instagram.com/ammarkov1/)
+[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV), [Google Scholar](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ), [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammarkov/), [HackerRank](https://www.hackerrank.com/ammarkov), [Instagram](https://www.instagram.com/ammarkov1/), [Spotify](https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd), [Deviant-Art](https://www.deviantart.com/ammarkov1)
 
 
 Donations
