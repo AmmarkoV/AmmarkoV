@@ -143,5 +143,5 @@ For more old-school donations here is my paypal :
 [![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
 
 
-![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png) 
+![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png)  ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/archimedes_summer_school3.jpg) 
 
