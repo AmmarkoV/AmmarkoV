@@ -156,6 +156,8 @@ For more old-school donations here is my paypal :
 Photo Gallery
 --------------
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/elina.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/me_and_guarddog-189x300.png" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/archimedes_summer_school3.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/magician.jpeg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/archimedes_p1.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/archimedes_p2.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/greeksinai1.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/greeksinai2.jpg" height="200"> <img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/magician_trento.jpg" height="200">
+</div>
 
 
