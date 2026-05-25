@@ -21,7 +21,7 @@ Ammar Qammaz
 
 
 <div align="center">
-[![AmmarkoV's github stats](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/pdf/cv.jpg)](https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf)
+<a href="https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf"><img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/pdf/cv.jpg" alt="AmmarkoV's CV"></a>
 </div>
 
 
