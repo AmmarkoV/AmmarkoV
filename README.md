@@ -24,7 +24,9 @@ Ammar Qammaz
 -->
 [![AmmarkoV's github stats](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/pdf/cv.jpg)](https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf)
 
-I am among the [top 50 most active github developers in Greece](https://commits.top/greece.html)..!
+Routinely among the [top 50 most active github developers in Greece](https://committers.top/greece)..!
+
+[GitRanks profile](https://gitranks.com/profile/AmmarkoV)
 
 
 Early life / Short Biography
@@ -38,17 +40,21 @@ In 2007, around the fifth semester of my studies, I encountered computer graphic
 During the next year, I fulfilled my mandatory military service in Greece, serving as a communications system operator. I also contributed with writing software to automate some standard procedures. After a few months, I got transferred to HNDGS – NATO headquarters in Athens in a critical position handling sensitive classified signals until the end of my service.
 After my military service, I joined the Computer Vision and Robotics Laboratory (CVRL) at the Foundation For Research and Technology – Hellas (FORTH) were I have remained ever since. I have been involved in various challenging European Research Projects that primarily used computer vision in household robotics (listed in detail in a section below).
 
-In order to further improve my knowledge and skills, I started a MSc degree in University of Crete in 2015 while also receiving a scholarship from FORTH-CVRL. The focus of my studies was computer vision, robot navigation, graphics and knowledge bases. My MSc thesis “A Hybrid Method for 3D Pose Estimation of Personalized Human Body Models” deals with the problem of 3D human tracking while also employing neural networks and state of the art human model reconstruction techniques. I recently enrolled in a PhD program that started in 2019 and is due in 2022.
+In order to further improve my knowledge and skills, I started a MSc degree in University of Crete in 2015 while also receiving a scholarship from FORTH-CVRL. The focus of my studies was computer vision, robot navigation, graphics and knowledge bases. My MSc thesis “A Hybrid Method for 3D Pose Estimation of Personalized Human Body Models” deals with the problem of 3D human tracking while also employing neural networks and state of the art human model reconstruction techniques. I completed my PhD in April 2024 and am currently working as a Post-doc Research Assistant at FORTH-CVRL.
 
 I have a strong and diverse computer related background that extends from a full curriculum of computer science studies down to low-level electronics and hands-on technical experience and knowledge. I consider myself very lucky because what started out as a passionate hobby for me, as a self-taught programmer at age 14 trying to create virtual worlds inside my computer, has come full circle, allowing me to pursue my dreams through passionate research, making programs that can now perceive and act in the real world. Through events like the European researchers` night and school demos organized by the local municipality, I have had the chance to show my work to a new generation of young Greek students that have been brought up in times of great economical adversity, hopefully inspiring them to find their calling. Through my role as a teaching assistant in introductory programming and mathematics courses, I have had the chance of helping freshmen in the Computer Science department to build a solid foundation for their studies.
 
 Highlights and Milestones
 --------------
 
+* 2026 "[Y-MAP-Net](https://github.com/FORTH-ICS-CVRL-HCCV/Y-MAP-Net)" accepted at [IEEE ICRA 2026](https://2026.ieee-icra.org/) (to appear): real-time multi-task scene perception using foundation model knowledge distillation
+* 2024 Started Post-doc Research Assistant position at FORTH-CVRL, technical lead on [Magician](https://www.magician-project.eu/) (EU Grant no.101120731) and Greece 4.0 industrial AI projects
+* 2023 Paper accepted at [ICCVW 2023](https://iccv2023.thecvf.com/) (AMFG workshop): Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs
+* 2023 Paper accepted at [PETRA 2023](https://petrae.org/): Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction
 * 2022 [PhD work on MocapNET awarded a BonsApps (EU H2020 no.101015848) AI Talent grant (Winner No. Bons\_1OC\_20)](https://bonsapps-1oc-ai-talents.fundingbox.com/) 
 * 2022 [PhD Scholarship to participate in the ARCHIMEDES Greek ML/AI Summer School after national selection.](https://www.athenarc.gr/en/news/archimedes-summer-program-2022) 
 * 2021 [Recipient of the “Maria Michail Manasaki” Bequest Fellowship for the work carried out during the first year of my PhD](https://www.csd.uoc.gr/CSD/index.jsp?custom=manasakis\&lang=en) 
-* 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BVMC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
+* 2021 Fifth PhD semester “[MocapNET3](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2021](https://www.youtube.com/watch?v=aaLOSY_p6Zc)
 * 2020 Third PhD semester “[MocapNET2](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [IEEE ICPR 2020](https://www.youtube.com/watch?v=mns2s4xUC7c)
 * 2019 First PhD semester paper about a realtime 3D Pose estimation method “[MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET)” accepted at [BMVA BMVC 2019](https://www.youtube.com/watch?v=fH5e-KMBvM0)
 * 2019 Started a PhD in the Computer Science department of the University of Crete
@@ -59,7 +65,7 @@ Highlights and Milestones
 * 2012 Joined the Computer Vision and Robotics Laboratory of the Foundation of Research and Technology 
 * 2011 Participation at the International Fair of Thessaloniki with the GuarddoG Project
 * 2008 Best of show award for the GuarddoG project in the Athens Digital Week exhibition
-* 2007 Starting the develoment of my [BSc thesis](https://raw.githubusercontent.com/AmmarkoV/RoboVision/master/Documentation/GuarDDoG_RoboVision.pdf), a small guard robot named “[GuarddoG Project](https://github.com/AmmarkoV/RoboVision)” 
+* 2007 Starting the development of my [BSc thesis](https://raw.githubusercontent.com/AmmarkoV/RoboVision/master/Documentation/GuarDDoG_RoboVision.pdf), a small guard robot named “[GuarddoG Project](https://github.com/AmmarkoV/RoboVision)” 
 * 2003 Chosen for the Greek national team for International Olympiad of Informatics 2004 after a national programming contest (age 18)
 * 1999 Learned my first programming language “FreePascal”, first encounter with a Linux OS (age 14)
 
@@ -75,14 +81,15 @@ Hand Tracking using heterogeneous computing for Low-Power Integrated Systems and
 * Hobbit The Mutual Care Robot  - FP7-ICT-288146 - http://hobbit.acin.tuwien.ac.at/  2012 – 2015
 Participation in Implementation /Project Review Meetings, Integration Work of FORTH Software with ROS, Emergency fallen user system development, System design/tuning, Load Balancing, Web interface/UI work using AmmarServer . A very challenging project and to the best of my knowledge, the first time in human history conducting live trials with autonomous robots in user homes.
 * Robohow.cog  - FP7-ICT-288533 - http://robohow.eu/  2012 – 2015
-Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publciation ), Performance Improvements (See BMVC 15  submission).
+Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publication ), Performance Improvements (See BMVC 15  submission).
 
 
-Publications  ( [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
+Publications  ( 694+ citations — [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
+- A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), (to appear), IEEE, Atlanta, USA, June 2026.
 - S. Panagou, M. Sileo, K. Papoutsakis, F. Fruggiero, A. Qammaz and A.A. Argyros, "Complexity based investigation in collaborative assembly scenarios via non intrusive techniques", Procedia Computer Science, Special issue, 4th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2022), Elsevier, vol. 217, pp. 478-485, 2023. 
-- A. Qammaz and A. Argyros, "A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs", In International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023), (to appear), IEEE, Paris, France, October 2023.
+- A. Qammaz and A. Argyros, "A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs", In International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023), IEEE, Paris, France, October 2023.
 - A. Qammaz and A. Argyros, "Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction", In International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2023), ACM, pp. 306-312, Corfu, Greece, July 2023.
 - H. Hauser, C. Beisswenger, N. Partarakis, X. Zabulis, I. Adami, E. Zidianakis, A. Patakos, N. Patsiouras, E. Karuzaki, M. Foukarakis, A. Tsoli, A. Qammaz, A. Argyros, N. Cadi, E. Baka, N.M. Thalmann, B. Olivias, D. Makrygiannis, A. Glushkova, S. Manitsaris, V. Nitti and L. Panesse, "Multimodal Narratives for the Presentation of Silk Heritage in the Museum", MDPI, vol. 5, no. 1, pp. 461-487, 2022. 
 - A. Qammaz and A.A. Argyros, "Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs", In British Machine Vision Conference (BMVC 2021), BMVA, Virtual, UK, November 2021.
@@ -116,7 +123,7 @@ Frameworks : ROS, wxWidgets, OpenGL, GLSL, OpenAL, OpenCV, CUDA, Tensorflow, Ker
 
 Research Interests
 --------------
-Computer Vision, Image Processing, Computer Graphics, Robotics, HCI, Deep Neural Networks,  Machine Learining, Artificial Intelligence, Embedded/Ubiquitous Computing.
+Computer Vision, Image Processing, Computer Graphics, Robotics, HCI, Deep Neural Networks,  Machine Learning, Artificial Intelligence, Embedded/Ubiquitous Computing.
 
 Other Information/Interests
 --------------
@@ -128,7 +135,7 @@ I have a Greek Nationality, I speak Greek (native speaker), English (FCE, CPE Ca
 
 Links 
 --------------
-[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV), [Google Scholar](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ), [Github](https://github.com/AmmarkoV/), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammarkov/), [HackerRank](https://www.hackerrank.com/ammarkov), [Instagram](https://www.instagram.com/ammarkov1/), [Spotify](https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd), [Deviant-Art](https://www.deviantart.com/ammarkov1)
+[WWW](http://ammar.gr/), [OpenHub](https://www.openhub.net/accounts/AmmarkoV), [Google Scholar](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ), [Github](https://github.com/AmmarkoV/), [Hugging Face](https://huggingface.co/AmmarkoV), [ORCID](https://orcid.org/0000-0002-1292-5866), [YouTube](http://www.youtube.com/user/ammarkov), [Linked-In](https://www.linkedin.com/in/ammarkov/), [HackerRank](https://www.hackerrank.com/ammarkov), [Instagram](https://www.instagram.com/ammarkov1/), [Spotify](https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd), [Deviant-Art](https://www.deviantart.com/ammarkov1)
 
 
 Donations
