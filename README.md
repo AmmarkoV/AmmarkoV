@@ -73,6 +73,7 @@ Highlights and Milestones
 Participation in European Research Projects 
 --------------
 
+* Magician Project – H2020 grant no. 101120731 - https://www.magician-project.eu/ - 2023-2027
 * Mingei Project – H2020 grant no. 822336 - http://www.mingei-project.eu/ 2018-2020
 3D pose estimation from videos of experts performing various historically important procedures for cultural heritage preservation
 * Co4Robots – H2020-ICT-2016-1-73186 - https://www.co4robots.eu/ 2017-2019
@@ -88,7 +89,7 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( 694+ citations — [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
-- A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), (to appear), IEEE, Atlanta, USA, June 2026.
+- A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), (to appear), IEEE, Vienna, Austria, June 2026.
 - S. Panagou, M. Sileo, K. Papoutsakis, F. Fruggiero, A. Qammaz and A.A. Argyros, "Complexity based investigation in collaborative assembly scenarios via non intrusive techniques", Procedia Computer Science, Special issue, 4th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2022), Elsevier, vol. 217, pp. 478-485, 2023. 
 - A. Qammaz and A. Argyros, "A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs", In International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023), IEEE, Paris, France, October 2023.
 - A. Qammaz and A. Argyros, "Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction", In International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2023), ACM, pp. 306-312, Corfu, Greece, July 2023.
