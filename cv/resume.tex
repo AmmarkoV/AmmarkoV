@@ -1,0 +1,453 @@
+%-------------------------
+% Entry-level Resume in LaTeX
+% Last Edits - July 19, 2021
+% Author : Jayesh Sanwal
+% Reach out to me on LinkedIn(/in/jsanwal), with any suggestions, ideas, etc.
+%------------------------
+
+%%-------------------------------------
+% Author Notes here -
+% 1) Change " Author+an = {N=highlight}" in "Publications.bib", where N is the number at which your name appears
+% 2) Use "\vspace" wisely, that would change spacing, and is currently being used as a hacky fix
+% 3) Do not delete the fonts in the left side
+% 4) Use the "Rich Text" feature on Overleaf - On the top panel next to source. Makes it much easier for starters on LaTeX to use this template
+% 5) Do NOT use periods at the end of bullet points, the sample (ipsum) text might have it
+% 6) Use "maxbibnames" on this file to change the maximum number of authors on the paper (Credits: Dr. Natasha Krell) - Default is 3, but change line 92 to add authors
+
+%%-------------------------------------
+% Changes from last version -
+% 1) Removed areas of Expertise as a separate section - integrated into the summary section
+% 2) Changed Focus to Academic Projects instead of Education
+% 3) Made the integrated summary 3 lines over 1
+% 4) Changed spacing between sections and bullets
+% 5) Changed the number of authors to be user customized
+
+%%-------------------------------------
+% Changes to be made here -
+% 1) Shift to Class file, make changes here
+% 2) Use a fonts folder
+% 3) Incorporate Leadership & volunteering together
+% 4) Remove \vspace based 'hacky' fixes
+%%-------------------------------------
+
+\documentclass[a4,8pt]{article}
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  STARTING HERE, DO NOT TOUCH ANYTHING 
+%%%%%%% --------------------------------------------------------------------------------------
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+ \usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{tabularx}
+\hypersetup{colorlinks=true,urlcolor=black}
+\usepackage[11pt]{moresize}
+\usepackage{setspace}
+\usepackage{fontspec}
+\usepackage[inline]{enumitem}
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage{anyfontsize}
+
+
+
+%Page Numbering
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+% Set the right side of the footer to be the page number
+\fancyfoot[R]{\thepage}
+
+%Add My Signature, Bottom Left..!
+\usepackage{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+color=white,
+position=current page.south west,
+vshift=0.1in, % Adjust the vertical position
+hshift=7.7in, % Adjust the horizontal position
+contents={
+\begin{tikzpicture}[remember picture,overlay]
+\node at (0,0)% Adjust the position of the logo.
+{\rule{2cm}{3cm}}; \includegraphics[width=0.08\textwidth]{ypografi.png} 
+\end{tikzpicture}}
+}
+
+
+%%%% Set Margins ---- More free space can be freed here by making printing harder
+\usepackage[margin=0.8cm, top=0.8cm]{geometry}
+
+%%%% Set Fonts
+\setmainfont[
+BoldFont=SourceSansPro-Semibold.otf, %SourceSansPro-Bold.otf
+ItalicFont=SourceSansPro-RegularIt.otf
+]{SourceSansPro-Regular.otf}
+\setsansfont{SourceSansPro-Semibold.otf}
+
+%%%% Set Numbered Page
+\usepackage{lastpage}  
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[L]{Page \thepage\ / \pageref*{LastPage} } % Page number on the bottom left
+ 
+
+%%%% Set URL Style
+\urlstyle{same}
+%%%% Set Indentation
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+%%%% Set Secondary Color
+%\definecolor{UICOLOR}{RGB}{0, 145, 147} %Blue Green #009193 
+%\definecolor{UICOLOR}{RGB}{119, 22, 36} %Maroon #771624
+%\definecolor{UICOLOR}{RGB}{171, 55, 23} %Red Orange #ab3717
+%\definecolor{UICOLOR}{RGB}{66, 66, 66} %Dark Grey #424242
+
+%\definecolor{UICOLOR}{RGB}{255, 64, 0} %Orange
+%\definecolor{UICOLOR}{RGB}{128, 0, 128} %Purple
+\definecolor{UICOLOR}{RGB}{32, 64, 151} %Blue
+
+\linespread{0.9}
+%%%% Define New Commands
+\usepackage[style=nature, maxbibnames=3]{biblatex}
+\addbibresource{Publications.bib}
+
+%%%% Bold Name in Publications
+\renewcommand*{\mkbibnamegiven}[1]{%
+\ifitemannotation{highlight}
+{\textbf{#1}}
+{#1}}
+
+\renewcommand*{\mkbibnamefamily}[1]{%
+\ifitemannotation{highlight}
+{\textbf{#1}}
+{#1}}
+
+%%%% Set Sections formatting
+\titleformat{\section}{
+\color{UICOLOR} \scshape \raggedright \large 
+}{}{0em}{}[\vspace{-10pt} \hrulefill \vspace{-6pt}]
+
+%%%% Set Subtext Formatting
+\newcommand{\subtext}[1]{
+#1\par\vspace{-0.2cm}}
+
+% \newcommand{\subtextit}[1]{\vspace{0.15cm}
+% \textit{ #1 \vspace{-0.2cm}} }
+
+%%%% Set Item Spacing
+\setlist[itemize]{align=parleft,left=0pt..1em}
+
+%%%% New Itemize "Zitemize" Formatting - tighter spacing than itemize
+\newenvironment{zitemize}{
+\begin{itemize}\itemsep0pt \parskip0pt \parsep1pt}
+{\end{itemize}\vspace{-0.5cm}}
+
+
+%%%% Define Skills Bold Formatting
+\newcommand{\hskills}[1]{
+\textbf{\bfseries #1} }
+
+%%%% Set Subsection formatting
+\titleformat{\subsection}{\vspace{-0.1cm} 
+\bfseries \fontsize{11pt}{2cm}}{}{0em}{}[\vspace{-0.2cm}]
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  END OF "DO NOT TOUCH" REGION
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\begin{document}
+ 
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  HEADER
+%%%%%%% --------------------------------------------------------------------------------------
+\begin{center}
+    \begin{minipage}[b]{0.24\textwidth}
+            \large Athens, Greece \\
+            \large Open to relocation \\
+            \large \href{mailto:ammarkov@gmail.com}{ammarkov@gmail.com} 
+    \end{minipage}% 
+    \begin{minipage}[b]{0.5\textwidth}
+            \centering
+            {\HUGE Ammar Qammaz} \\ %
+            \vspace{0.1cm}
+            {\color{UICOLOR} {Software / Research / Computer Vision / Robotics / AI }} \\
+    \end{minipage}% 
+    \begin{minipage}[b]{0.24\textwidth}
+            \flushright \large  %Willing to Relocate
+            {\href{http://ammar.gr}{ammar.gr} } \\
+            {\href{https://github.com/AmmarkoV/}{github.com/AmmarkoV/} } \\
+            {\href{https://www.linkedin.com/in/ammarkov}{linkedin.com/ammarkov/} }
+    \end{minipage}   
+    
+\vspace{-0.15cm} 
+{\color{UICOLOR} \hrulefill}
+\end{center}
+\vspace{-0.2cm}
+Computer Vision expert with \href{https://www.openhub.net/accounts/AmmarkoV/languages}{13+ years of C/C++} experience and a \href{https://www.didaktorika.gr/eadd/handle/10442/56972}{PhD in Computer Vision \& AI perception of humans}. Proven leadership in EU-funded research, embedded systems, and real-time 3D pose estimation. 10+ years working on research projects specializing on Computer Vision as member of the \href{https://www.ics.forth.gr/cvrl}{Computer Vision and Robotics Laboratory} of \href{https://www.forth.gr/en/home/}{FORTH}, \href{https://www.forth.gr/en/content/FORTHs-Excellence.111/}{the largest research institute in Greece}. \hskills{Areas of expertise:} \href{https://www.youtube.com/watch?v=aaLOSY_p6Zc}{Computer Vision, Artificial Neural Networks, 3D human perception and pose estimation}, Real-Time Computing, Robotics, HCI. \hskills{Impact:} Among the top \href{https://committers.top/greece}{most active Github developers in Greece}, Author of \href{https://github.com/FORTH-ModelBasedTracker/MocapNET}{MocapNET one of the few 3D total Human Pose estimation methods in the world}, \href{https://scholar.google.gr/citations?user=sDOdhtwAAAAJ&hl=en}{\bf{694+ citations} }in top-tier conferences ( \href{http://users.ics.forth.gr/~argyros/mypapers/2015_06_CVPR_fsv.pdf}{CVPR}, \href{http://users.ics.forth.gr/~argyros/mypapers/2021_01_ICPR_Qammaz.pdf}{ICPR}, \href{http://users.ics.forth.gr/~argyros/mypapers/2021_11_BMVC_Qammaz.pdf}{BMVC}, \href{http://users.ics.forth.gr/~argyros/mypapers/2015_12_OUI_FSV.pdf}{ICCVW}), in charge of the human perception stack of \href{http://hobbit.acin.tuwien.ac.at/}{EU FP7 Hobbit robot}, a.k.a. \href{https://www.youtube.com/watch?v=eXbdmq6OIvU&}{first robot trials in houses of elderly people in human history}, \href{https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/rms-300x225.jpg}{GNU/Linux enthusiast}, various \href{https://github.com/AmmarkoV/}{FOSS contributions}. \vspace{-0.2cm}
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  ACADEMIC PROJECTS
+%%%%%%% --------------------------------------------------------------------------------------
+\section{Projects} %% (Or "Research", select as appropriate)
+\linespread{0.6} 
+\vspace{-0.1cm}
+%%% ----- Best way to write items (Credit - FAANGPath)
+        % \item Achieved X\% growth for XYZ using A, B, and C skills.
+        % \item Led XYZ which led to X\% of improvement in ABC
+        % \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+
+%%%%%%% ----------------------------------- Role  ----------------------------------- %%%%%%%
+\subsection*{\href{https://cordis.europa.eu/project/id/101120731}{Magician}, {\normalsize\normalfont iMmersive leArninG, ImperfeCtion detectIon repAir  human-robot interactioN (EU Grant no.101120731)} \hfill 2024 --- Present } 
+    \begin{zitemize}
+        \item Technical lead on defect sensing, designed a sensor and neural network based solution for defect repair in industrial assembly lines.
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role  ----------------------------------- %%%%%%%
+\subsection*{\href{https://www.greece40.gr/}{Greece 4.0 (TAEDR-0535864)}, {\normalsize\normalfont Scene understanding based on visual information (KA 11413, No. 90213)} \hfill 2024 --- Present } 
+    \begin{zitemize}
+        \item Technical lead, providing a distributed computer vision neural network pose estimation and scene understanding for industrial use.
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role  ----------------------------------- %%%%%%%
+\subsection*{\href{https://cardio-scope.eu/}{CardioSCOPE}, {\normalsize\normalfont Empowering scientists for the “omics” era (MSCA SE project funded by EU Grant no.101086397)} \hfill 2023 --- 2024 } 
+    \begin{zitemize}
+            \item Trained in High-performance liquid chromatography and Liquid chromatography–mass spectrometry in \href{https://www.bsn-srl.it/en/}{B.S.N. srl} 
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- FILTERED Role 2 ----------------------------------- %%%%%%%
+\subsection*{\href{https://gitlab.com/bonseyes/bonsapps/1st-support-programme/automotive/body-part-tracking/auto-mnet}{AUTO-MNET}, {\normalsize\normalfont BonsApps (EU H2020 Grant no.101015848) AI Talent grant (Winner No. Bons\_1OC\_20)} \hfill 2022 --- 2023 } 
+    \begin{zitemize}
+        \item Technical lead, providing an embedded 3D real-time driver body pose estimation framework for cars to ensure safe driving.  
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 1 ----------------------------------- %%%%%%%
+\subsection*{I.C.HUMANS, {\normalsize\normalfont HFRI (ΕΛΙΔΕΚ Proj. No. 91)} \hfill 2021 --- 2022} 
+    \begin{zitemize}
+        \item Unobtrusive capturing of human motion, articulation and semantics.
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 3 ----------------------------------- %%%%%%%
+\subsection*{\href{https://www.mingei-project.eu/}{Mingei}, {\normalsize\normalfont EU H2020 grant no. 822336} \hfill 2018 --- 2020} 
+    \begin{zitemize}
+        \item 3D pose estimation from RGB videos of experts performing various historically important procedures for cultural preservation
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 4 ----------------------------------- %%%%%%%
+\subsection*{\href{http://www.co4robots.eu/}{Co4Robots}, {\normalsize\normalfont EU H2020-ICT-2016-1-73186 } \hfill 2017 --- 2019} 
+    \begin{zitemize}
+        \item Real-time RGB human perception on the ROS platform
+    \end{zitemize}
+    
+%%%%%%% ----------------------------------- Role 5 ----------------------------------- %%%%%%%
+\subsection*{\href{http://www.rapid-project.eu/}{Remote Acceleration service for low-Power Integrated systems and Devices (RAPID)}, {\normalsize\normalfont EU H2020-ICT-644312 } \hfill 2015 --- 2017} 
+    \begin{zitemize}
+        \item 3D hand tracking from RGBD using heterogeneous computing for low-power integrated systems and devices
+    \end{zitemize}
+    
+%%%%%%% ----------------------------------- Role 6 ----------------------------------- %%%%%%%
+\subsection*{\href{http://hobbit.acin.tuwien.ac.at/}{Hobbit The Mutual Care Robot}, {\normalsize\normalfont EU FP7-ICT-288146} \hfill 2013 --- 2015} 
+    \begin{zitemize}
+        \item In charge of implementing the RGBD human perception stack of the Robot, emergency user fall detection, system design/tuning, \href{https://www.youtube.com/watch?v=41_8ktacxt8}{web interface} using \href{https://github.com/AmmarkoV/AmmarServer/}{my embedded AmmarServer}, on-site support of the platform on live trials. 
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 7 ----------------------------------- %%%%%%%
+\subsection*{\href{https://cordis.europa.eu/docs/projects/cnect/3/288533/080/deliverables/001-d21.pdf}{Robohow.cog}, {\normalsize\normalfont EU FP7-ICT-288533} \hfill 2013 --- 2015} 
+    \begin{zitemize}
+        \item Integration of FORTH 3D Hand Pose estimation and 3D Object Tracking framework with ROS and the PR2 robot, Work on \href{https://www.youtube.com/watch?v=C4k-FPWM1t0}{force sensing based on vision} (\href{http://users.ics.forth.gr/~argyros/mypapers/2015_06_CVPR_fsv.pdf}{See CVPR '15 Publication}), \href{https://www.youtube.com/watch?v=nPru6PpWrK4}{3D tracking performance improvements} (\href{http://users.ics.forth.gr/~argyros/mypapers/2015_09_BMVC_fect.pdf}{See BMVC '15 Publication}).
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 8 ----------------------------------- %%%%%%%
+\subsection*{\href{https://github.com/AmmarkoV/RoboVision}{GuarddoG Robot Project}, {\normalsize\normalfont \href{https://github.com/AmmarkoV/RoboVision/blob/master/Documentation/GuarDDoG_RoboVision.pdf}{BSc Thesis}} \hfill 2008 --- 2012} 
+    \begin{zitemize}
+        \item \href{https://github.com/AmmarkoV/RoboVision}{Software} and \href{https://github.com/AmmarkoV/RoboVision/blob/master/Documentation/GuarDDoG_RoboVision.pdf}{hardware} for a small autonomous wheeled robot for domestic security and surveillance designed from scratch.
+    \end{zitemize}
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  WORK EXPERIENCE
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Experience}
+\linespread{0.6} 
+\vspace{-0.1cm}
+%%% ----- Best way to write items (Credit - ResumePuppy.com)
+        % \item Developed AngularJS microservice to automate parsing of ~300 emails/day for efficient service request categorization using Linux MBox & Perl scripts; reduced manual re-allocation by 87%.
+        % \item Led the development, build and bring-up execution of Lyft’s first functional AV platform from start to finish; established fleet-grade product reliability over 5 months.
+        % \item Enhanced user experience by fine-tuning stored procedures & SQL queries for efficient data retrieval from ~4M records accessed by 5000+ users worldwide.
+        % \item Built a custom menu single handedly using HTML5, CSS3, XML and JSP and improved the performance of existing application by tuning the PL/SQL scripts by 20\% and reduced on-migration time.
+        
+
+%%%%%%% ----------------------------------- Role 2 ----------------------------------- %%%%%%%
+\subsection*{Post-doc Research Assistant \hfill Mar 2024 --- Present } 
+\subtext{\href{https://www.ics.forth.gr/cvrl/}{Computer Vision and Robotics Lab}, \href{https://www.ics.forth.gr/}{Institute of Computer Science}, \href{https://www.forth.gr/}{Foundation of Research and Technology}  \hfill Heraklion} 
+    \begin{zitemize}
+        \item Greece 4.0, Digital Transformation Technologies in the Greek Manufacturing Industry (TAEDR-0535864). Scene understanding based on visual information (KA 11413, No. 90213)
+        \item Magician, (EU Grant no.101120731) Technical lead, neural network vision sensing solution for defect repair in industrial assembly lines.
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 2 ----------------------------------- %%%%%%%
+\subsection*{PhD Graduate Research Assistant \hfill Jan 2019 --- Apr 2024} 
+\subtext{\href{https://www.ics.forth.gr/cvrl/}{Computer Vision and Robotics Lab}, \href{https://www.ics.forth.gr/}{Institute of Computer Science}, \href{https://www.forth.gr/}{Foundation of Research and Technology}  \hfill Heraklion} 
+    \begin{zitemize}
+        \item Involvement in I.C.HUMANS, \href{https://www.sustage.eu/}{SustAGE}, \href{https://www.mingei-project.eu/}{Mingei} Projects and \href{https://bonsapps.eu/}{BonsAPPs} 1st Support program. 
+        \item \href{https://github.com/FORTH-ModelBasedTracker/MocapNET}{Created MocapNET and Hierarchical Coordinate Descent} algorithm for real-time 3D body and hand pose estimation from RGB.
+        %\item { Ambient Intelligence and Smart Environments, Participation, FORTH-ICS }
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 2 ----------------------------------- %%%%%%%
+\subsection*{MSc Graduate Research Assistant \hfill Jan 2015 --- Jan 2019} 
+\subtext{\href{https://www.ics.forth.gr/cvrl/}{Computer Vision and Robotics Lab}, \href{https://www.ics.forth.gr/}{Institute of Computer Science}, \href{https://www.forth.gr/}{Foundation of Research and Technology}  \hfill Heraklion} 
+    \begin{zitemize}
+        \item Involvement in \href{http://www.co4robots.eu/}{Co4Robots}, \href{https://ramcip-project.eu/content/what-ramcip}{RAMCIP} and \href{http://www.rapid-project.eu/}{RAPID} Projects  
+        \item \href{http://users.ics.forth.gr/~argyros/mypapers/2018_03_WACV_personalizedHumanPose.pdf}{3D Human pose estimation from RGBD video using a 3D reconstruction of the subject. 3D Hand Tracking and Gesture recognition.}
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 3 ----------------------------------- %%%%%%%
+\subsection*{Software Research Engineer \hfill Jan 2013 --- Jan 2015} 
+\subtext{\href{https://www.ics.forth.gr/cvrl/}{Computer Vision and Robotics Lab}, \href{https://www.ics.forth.gr/}{Institute of Computer Science}, \href{https://www.forth.gr/}{Foundation of Research and Technology}  \hfill Heraklion} 
+    \begin{zitemize}
+        \item Involvement in \href{http://hobbit.acin.tuwien.ac.at/}{Hobbit}, \href{https://cordis.europa.eu/docs/projects/cnect/3/288533/080/deliverables/001-d21.pdf}{Robohow.cog} Projects  
+        \item \href{http://users.ics.forth.gr/~argyros/mypapers/2015_06_CVPR_fsv.pdf}{Model based 3D Hand} and \href{http://users.ics.forth.gr/~argyros/mypapers/2015_09_BMVC_fect.pdf}{Object Pose Estimation} from RGBD, developed \href{https://github.com/AmmarkoV/RGBDAcquisition/}{RGBDAcquisition} a framework for 3D data acquisition.
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 4 ----------------------------------- %%%%%%%
+\subsection*{Communication systems operator \hfill Nov 2010 --- Aug 2011} 
+\subtext{Hellenic Army} 
+    \begin{zitemize}
+        \item Served as a communication systems operator on the \href{https://geetha.mil.gr/en/}{HNDGS}-\href{https://www.nato.int/}{NATO} headquarters handling classified signals and state secrets. 
+    \end{zitemize}
+
+%%%%%%% ----------------------------------- Role 5 ----------------------------------- %%%%%%%
+\subsection*{Software Developer Freelancer \hfill Oct 2005 --- Nov 2010}  
+    \begin{zitemize}
+        \item Developed, hosted and maintained e-commerce platforms for car dealerships, jewellery stores, and small businesses. 
+        \item \href{http://ammar.gr/~ammar/atech_old/Myshop/database.php}{Shareware and freeware games, utilities, database software for medical clinics and dentists, still being used today on windows PCs.}
+    \end{zitemize}
+%\pagenumbering{arabic}
+%\newpage
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  EDUCATION
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Education }
+\linespread{0.6} 
+\subsection*{ \href{https://www.didaktorika.gr/eadd/handle/10442/56972}{Doctor of Philosophy, Computational and Cognitive Vision and Robotics}, {\normalsize \normalfont University of Crete } \hfill Jan 2019 --- Apr 2024} 
+\vspace{0.1cm}
+\subsection*{ \href{http://ammar.gr/msc.pdf}{Master of Science, Computational and Cognitive Vision and Robotics}, {\normalsize \normalfont University of Crete, GPA: 8.86/10.00} \hfill Oct 2015 --- Nov 2018} 
+\vspace{0.1cm}
+\subsection*{\href{https://github.com/AmmarkoV/RoboVision/raw/master/Documentation/GuarDDoG_RoboVision.pdf}{Bachelor of Science, Computer Science}, {\normalsize \normalfont Athens University of Business and Economics, GPA: 6.51/10.00} \hfill Sep 2004 --- Sep 2012} 
+\vspace{0.2cm}
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  AWARDS & HONORS
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Awards \& Honors}
+\linespread{0.6} 
+\vspace{-0.2cm}
+\begin{tabular}[t]{ p{4em} p{50em}}
+
+\hskills{2022} & \hskills{\href{https://bonsapps-1oc-ai-talents.fundingbox.com/}{PhD work on MocapNET awarded a BonsApps (EU H2020 no.101015848) AI Talent grant (Winner No. Bons\_1OC\_20)}} \\
+\hskills{2022} & \hskills{\href{https://www.athenarc.gr/en/news/archimedes-summer-program-2022}{ PhD Scholarship to participate in the ARCHIMEDES Greek ML/AI Summer School after national selection. }} \\
+\hskills{2021} & \hskills{\href{https://www.csd.uoc.gr/CSD/index.jsp?custom=manasakis\&lang=en}{Recipient of the “Maria Michail Manasaki” Bequest Fellowship for the work carried out during the first year of my PhD }} \\
+
+\hskills{2011} & \hskills{Invited by the Greek Ministry of Development to showcase my BSc thesis robot in the Greek robotics portal innovation booth at the international thessaloniki fair, the largest annual expo event in Greece} \\
+
+%\hskills{2010} & \hskills{\href{https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/robots1-300x225.jpg}{Robotics, third position award for \href{https://github.com/AmmarkoV/RoboVision/blob/master/Documentation/GuarDDoG_RoboVision.pdf}{GuarddoG} project in the Athens Digital Week}} \\
+\hskills{2008} & \hskills{Robotics, best of Show Award for \href{https://github.com/AmmarkoV/RoboVision/blob/master/Documentation/GuarDDoG_RoboVision.pdf}{GuarddoG} project in the Athens Digital Week event} \\
+
+\hskills{2003} & \hskills{Chosen for International Olympiad of Informatics 2004 Greek team after national programming contest}  \\ % 
+
+\end{tabular}
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  SKILLS
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Technical Skills}
+\linespread{0.6} 
+\begin{tabular}{p{11em} p{1em} p{43em}}
+\hskills{\href{https://www.openhub.net/accounts/AmmarkoV/languages}{Programming Languages} }&  &  C, C++, Python, SIMD Assembly, GLSL, CUDA, BASH, Java, PHP, Javascript, SQL, Matlab/Octave, FreePascal \\
+\hskills{Platforms} &  & GNU/Linux, Android, Windows, Embedded (ATMEL, AVR, RISCV, ESP, Arduino)   \\
+\hskills{Frameworks} &  & OpenCV, OpenGL, OpenCL, Tensorflow, PyTorch, Keras, NumPy, PThreads, ROS, CMake, Git, WxWidgets \\
+\hskills{Research Interests} &  &Computer Vision, Machine Learning, Artificial Intelligence, Robotics, HCI, Embedded Computing \\
+\end{tabular}
+\vspace{-0.2cm}
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  OTHER INFORMATION & INTERESTS
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Nationality, Languages, Other Information \& Interests}
+\linespread{0.6} 
+\vspace{-0.2cm} 
+European/Greek Nationality, Native Greek speaker. English FCE, CPE Cambridge diplomas. INTJ Myers-Briggs personality type, O+ blood type. I enjoy tweaking my \href{https://github.com/AmmarkoV/OpenDroneA/tree/master/ammarforce}{custom built Quadcopter}, maintaining my \href{https://github.com/AmmarkoV/}{open source repositories},  \href{https://steamcommunity.com/id/ammarkov/badges}{gaming}, \href{https://www.deviantart.com/ammarkov1}{amateur photography}, \href{https://www.youtube.com/watch?v=ituN8OGYGbc}{sailing}, \href{https://www.facebook.com/photo/?fbid=10160115991268040&set=a.455008078039}{reading books}, \href{https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd}{good music}, watching documentaries, latin dance and traveling.
+
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  Links
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Links}
+\linespread{0.6} 
+\vspace{-0.2cm} 
+Google Scholar : \href{https://scholar.google.com/citations?user=sDOdhtwAAAAJ}{https://scholar.google.com/citations?user=sDOdhtwAAAAJ}, Github : \href{https://github.com/AmmarkoV/}{https://github.com/AmmarkoV/}, ORCID:\href{https://orcid.org/0000-0002-1292-5866}{0000-0002-1292-5866}, YouTube: \href{http://www.youtube.com/user/ammarkov}{http://www.youtube.com/user/ammarkov}, HackerRank : \href{https://www.hackerrank.com/ammarkov}{https://www.hackerrank.com/ammarkov}, Linked-In : \href{https://www.linkedin.com/in/ammarkov}{https://www.linkedin.com/in/ammarkov}, Instagram : \href{https://www.instagram.com/ammarkov1/}{https://www.instagram.com/ammarkov1/}, \href{https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd}{Spotify: Ammar Qammaz}, Hugging Face: \href{https://huggingface.co/AmmarkoV}{https://huggingface.co/AmmarkoV}.
+%%%%%%% --------------------------------------------------------------------------------------
+%%%%%%%  PUBLICATIONS
+%%%%%%% --------------------------------------------------------------------------------------
+\linespread{0.82} 
+\section{Selected Publications, \href{http://ammar.gr/publications/}{full publication list available @ http://ammar.gr/publications/} } 
+\linespread{0.6} 
+\begin{enumerate}[itemsep=-1mm]
+
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2024_11_arxiv_YMapNet_Qammaz.pdf}{A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images", CoRR, arXiv, November 2024.}
+
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2022_11_ISM_Panagou.pdf}{Panagou, S. et al. Complexity based investigation in collaborative assembly scenarios via non intrusive techniques. Procedia Computer Science, 4th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2022) 217, 478–485 (2023).}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2023_10_AMFG_Qammaz.pdf}{Qammaz, A. \& Argyros, A. A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs in International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023) (IEEE, Paris, 2023).}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2023_07_PETRA_Qammaz.pdf}{Qammaz, A. \& Argyros, A. Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction in International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2023) (ACM, Greece, 2023).}
+
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2022_journal_mingei.pdf}{H. Hauser et.al., "Multimodal Narratives for the Presentation of Silk Heritage in the Museum", MDPI, vol. 5, pp. 461-487, 2022.}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2021_11_BMVC_Qammaz.pdf}{Qammaz, A. \& Argyros, A. Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs in British Machine Vision Conference (BMVC 2021) (BMVA, Nov. 2021).}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2021_01_ICPR_Qammaz.pdf}{Qammaz, A. \& Argyros, A. Occlusion-tolerant and personalized 3D human pose estimation in RGB images in 2020 25th International Conference on Pattern Recognition (ICPR) (2021), 6904–6911.}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2019_journal_12_HRI_bajones.pdf}{Bajones, M. et al. Results of field trials with a Mobile service robot for older adults in 16 private households. ACM Transactions on Human-Robot Interaction (THRI) 9, 1–27 (2019).}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf}{Qammaz, A. \& Argyros, A. A. MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images. BMVC 2019.}
+
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2018_journal_JoR_HOBBIT.pdf}{Bajones, M. et al. Hobbit: providing fall detection and prevention for the elderly in the real world. Journal of Robotics (2018).}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2018_03_WACV_personalizedHumanPose.pdf}{Qammaz, A., Michel, D. \& Argyros, A. A hybrid method for 3d pose estimation of personalized human body models in 2018 IEEE Winter Conference on Applications of Computer Vision (WACV) (2018), 456–465.}
+
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2015_12_OUI_FSV.pdf}{T.-H. Pham, A. Kheddar, A. Qammaz and A.A. Argyros, "Capturing and Reproducing Hand-Object Interactions Through Vision-Based Force Sensing", In IEEE International Conference on Computer Vision Workshops (OUI 2015 - ICCVW 2015), IEEE, Santiago, Chile, November 2015. }
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2015_09_BMVC_fect.pdf}{Qammaz, A., Kyriazis, N. \& Argyros, A. Boosting the Performance of Model-based 3D Tracking by Employing Low Level Motion Cues. in BMVC (2015), 144–1.}
+  
+  \item \href{http://users.ics.forth.gr/~argyros/mypapers/2015_06_CVPR_fsv.pdf}{Pham, T.-H. et al. Towards force sensing from vision: Observing hand-object interactions to infer manipulation forces in Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR) (2015), 2810–2819.}
+\end{enumerate}
+\vspace{-0.4cm}
+
+
+
+
+
+
+%%%%%%% ---------------------------- END DOC HERE ---------------------------- %%%%%%% 
+\end{document}
