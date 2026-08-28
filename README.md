@@ -58,7 +58,7 @@ Ammar Qammaz a.k.a. AmmarkoV
 <br>
 
 <div align="center">
-![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
+<img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg" alt="image" width="30%"><img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg" alt="image" width="30%"><img src="https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg" alt="image" width="30%">
 </div>
 
 
