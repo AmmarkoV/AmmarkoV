@@ -76,7 +76,7 @@ I have a strong and diverse computer related background that extends from a full
 Highlights and Milestones
 --------------
 
-* 2026 "[Y-MAP-Net](https://github.com/FORTH-ICS-CVRL-HCCV/Y-MAP-Net)" accepted at [IEEE ICRA 2026](https://2026.ieee-icra.org/) (to appear): real-time multi-task scene perception using foundation model knowledge distillation
+* 2026 "[Y-MAP-Net](https://github.com/FORTH-ICS-CVRL-HCCV/Y-MAP-Net)" accepted as oral at [IEEE ICRA 2026](https://2026.ieee-icra.org/): real-time multi-task scene perception using foundation model knowledge distillation
 * 2024 Started Post-doc Research Assistant position at FORTH-CVRL, technical lead on [Magician](https://www.magician-project.eu/) (EU Grant no.101120731) and Greece 4.0 industrial AI projects
 * 2023 Paper accepted at [ICCVW 2023](https://iccv2023.thecvf.com/) (AMFG workshop): Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs
 * 2023 Paper accepted at [PETRA 2023](https://petrae.org/): Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction
@@ -117,7 +117,7 @@ Participation in Systems Integration Meetings, Integration work for ROS/FORTH MB
 Publications  ( 694+ citations — [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
-- A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), (to appear), IEEE, Vienna, Austria, June 2026.
+- A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), IEEE, Vienna, Austria, June 2026.
 - S. Panagou, M. Sileo, K. Papoutsakis, F. Fruggiero, A. Qammaz and A.A. Argyros, "Complexity based investigation in collaborative assembly scenarios via non intrusive techniques", Procedia Computer Science, Special issue, 4th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2022), Elsevier, vol. 217, pp. 478-485, 2023. 
 - A. Qammaz and A. Argyros, "A Unified Approach for Occlusion Tolerant 3D Facial Pose Capture and Gaze Estimation using MocapNETs", In International Conference on Computer Vision Workshops (AMFG 2023 - ICCVW 2023), IEEE, Paris, France, October 2023.
 - A. Qammaz and A. Argyros, "Compacting MocapNET-based 3D Human Pose Estimation via Dimensionality Reduction", In International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2023), ACM, pp. 306-312, Corfu, Greece, July 2023.
