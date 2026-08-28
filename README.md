@@ -54,7 +54,12 @@ Ammar Qammaz
   <img src="icons/linux-original.svg" alt="Linux" width="40" height="40"> <img src="icons/android-original.svg" alt="Android" width="40" height="40"> <img src="icons/windows8-original.svg" alt="Windows" width="40" height="40"> <img src="icons/ros-original.svg" alt="ROS" width="40" height="40"> <img src="icons/opengl-original.svg" alt="OpenGL" width="40" height="40"> <img src="icons/openal-original.svg" alt="OpenAL" width="40" height="40"> <img src="icons/opencv-original.svg" alt="OpenCV" width="40" height="40"> <img src="icons/nvidia-original.svg" alt="CUDA" width="40" height="40"> <img src="icons/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"> <img src="icons/keras-original.svg" alt="Keras" width="40" height="40"> <img src="icons/numpy-original.svg" alt="NumPy" width="40" height="40"> <img src="icons/git-original.svg" alt="Git" width="40" height="40">
 </div>
 
+
+<br>
+
+<div align="center">
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
+</div>
 
 
 
