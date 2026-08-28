@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ammar Qammaz
+Ammar Qammaz a.k.a. AmmarkoV
 ==============
 
 <div align="center">
