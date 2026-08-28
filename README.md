@@ -114,7 +114,7 @@ Participation in Implementation /Project Review Meetings, Integration Work of FO
 Participation in Systems Integration Meetings, Integration work for ROS/FORTH MBV SDK, Work on force sensing based on vision ( CVPR '15 Publication ), Performance Improvements (See BMVC 15  submission).
 
 
-Publications  ( 694+ citations — [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
+Publications  ( 704+ citations — [Automatically updated list here](https://scholar.google.gr/citations?user=sDOdhtwAAAAJ) )
 --------------
 
 - A. Qammaz, N. Vasilikopoulos, I. Oikonomidis and A.A. Argyros, "Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception", In IEEE International Conference on Robotics and Automation (ICRA 2026), IEEE, Vienna, Austria, June 2026.
