@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-Ammar Qammaz a.k.a. AmmarkoV
+<h1>Ammar Qammaz a.k.a. AmmarkoV</h1>
 </div>
-==============
+
+<hr>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ammarkov/"><img src="icons/linkedin.svg" alt="LinkedIn"></a>
