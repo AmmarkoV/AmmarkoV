@@ -44,7 +44,7 @@ Ammar Qammaz
 <div align="center">
 <a href="https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf"><img src="icons/cv.jpg" alt="AmmarkoV's CV"></a>
 <a href="https://committers.top/greece"><img src="icons/committers.svg" alt="Top 50 active GitHub developers in Greece"></a>
-<a href="https://gitranks.com/profile/AmmarkoV"><img src="icons/gitranks.svg" alt="GitRanks profile"></a>
+<a href="https://gitranks.com/profile/AmmarkoV"><img src="icons/gitranks.svg" alt="GitRanks: Elite 1 Global Top 3%"></a>
 </div>
 
 
