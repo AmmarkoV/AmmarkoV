@@ -31,11 +31,19 @@ Ammar Qammaz
   <a href="https://www.deviantart.com/ammarkov1"><img src="icons/deviantart.svg" alt="DeviantArt"></a>
 </div>
 
+<br>
 
 
 <div align="center">
   <a href="https://committers.top/greece"><img src="icons/committers.svg" alt="Top 50 active GitHub developers in Greece"></a>
   <a href="https://gitranks.com/profile/AmmarkoV"><img src="icons/gitranks.svg" alt="GitRanks: Elite 1 Global Top 3%"></a>
+</div>
+
+
+<br>
+
+<div align="center">
+<a href="https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf"><img src="icons/cv.svg" alt="Download Curriculum Vitae"></a>
 </div>
 
 
@@ -48,10 +56,6 @@ Ammar Qammaz
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
 
 
-
-<div align="center">
-<a href="https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf"><img src="icons/cv.jpg" alt="AmmarkoV's CV"></a>
-</div>
 
 
 Early life / Short Biography
@@ -168,15 +172,19 @@ Donations
 --------------
 Most of the code in my github repository is open-source, if you find it useful and feel like it you can help me maintain it by donating to the following cryptocurrency adresses.
 
-BTC: 1Jt9qByDdkb8awS7D5mx3BHSSuToL2NYHK
-
-Ethereum ERC20: 0xbcf9bd014a454d6c3a6870b0da84e09ce91d3443 
-
-XMR: 88yp6tXRXZZDZdhKnr3mAq3zS11j2H6zo817DkUZQ968Z7djoUEQhiCT88mFt3yUGXgndJmxNyPThJyU8pbSskNaByp2ocQ
+<div align="center">
+<img src="icons/bitcoin.svg" alt="BTC: 1Jt9qByDdkb8awS7D5mx3BHSSuToL2NYHK">
+<br/>
+<img src="icons/ethereum.svg" alt="Ethereum ERC20: 0xbcf9bd014a454d6c3a6870b0da84e09ce91d3443">
+<br/>
+<img src="icons/monero.svg" alt="XMR: 88yp6tXRXZZDZdhKnr3mAq3zS11j2H6zo817DkUZQ968Z7djoUEQhiCT88mFt3yUGXgndJmxNyPThJyU8pbSskNaByp2ocQ">
+</div>
 
 For more old-school donations here is my paypal :
 
-[![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/paypal_donate_button.gif)](https://paypal.me/ammarkov)
+<div align="center">
+<a href="https://paypal.me/ammarkov"><img src="icons/paypal.svg" alt="Donate via PayPal"></a>
+</div>
 
 
 Photo Gallery
