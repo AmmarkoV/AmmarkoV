@@ -16,6 +16,27 @@ Here are some ideas to get you started:
 Ammar Qammaz
 ==============
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ammarkov/"><img src="icons/linkedin.svg" alt="LinkedIn"></a>
+  <a href="http://ammar.gr/"><img src="icons/website.svg" alt="Website"></a>
+  <a href="https://www.openhub.net/accounts/AmmarkoV"><img src="icons/openhub.svg" alt="OpenHub"></a>
+  <a href="https://scholar.google.gr/citations?user=sDOdhtwAAAAJ"><img src="icons/scholar.svg" alt="Google Scholar"></a>
+  <a href="https://github.com/AmmarkoV/"><img src="icons/github.svg" alt="GitHub"></a>
+  <a href="https://huggingface.co/AmmarkoV"><img src="icons/huggingface.svg" alt="Hugging Face"></a>
+  <a href="https://orcid.org/0000-0002-1292-5866"><img src="icons/orcid.svg" alt="ORCID"></a>
+  <a href="http://www.youtube.com/user/ammarkov"><img src="icons/youtube.svg" alt="YouTube"></a>
+  <a href="https://www.hackerrank.com/ammarkov"><img src="icons/hackerrank.svg" alt="HackerRank"></a>
+  <a href="https://www.instagram.com/ammarkov1/"><img src="icons/instagram.svg" alt="Instagram"></a>
+  <a href="https://open.spotify.com/user/312mcszdrjonbv4wgzzd5ndcmsim?si=dd06aeb4af604bdd"><img src="icons/spotify.svg" alt="Spotify"></a>
+  <a href="https://www.deviantart.com/ammarkov1"><img src="icons/deviantart.svg" alt="DeviantArt"></a>
+</div>
+
+<div align="center">
+  <img src="icons/c-original.svg" alt="C" width="40" height="40"> <img src="icons/cplusplus-original.svg" alt="C++" width="40" height="40"> <img src="icons/python-original.svg" alt="Python" width="40" height="40"> <img src="icons/java-original.svg" alt="Java" width="40" height="40"> <img src="icons/bash-original.svg" alt="Bash" width="40" height="40"> <img src="icons/php-original.svg" alt="PHP" width="40" height="40"> <img src="icons/mysql-original.svg" alt="MySQL" width="40" height="40"> <img src="icons/matlab-original.svg" alt="Matlab" width="40" height="40"> <img src="icons/latex-original.svg" alt="LaTeX" width="40" height="40">
+  <br/><br/>
+  <img src="icons/linux-original.svg" alt="Linux" width="40" height="40"> <img src="icons/android-original.svg" alt="Android" width="40" height="40"> <img src="icons/windows8-original.svg" alt="Windows" width="40" height="40"> <img src="icons/ros-original.svg" alt="ROS" width="40" height="40"> <img src="icons/opengl-original.svg" alt="OpenGL" width="40" height="40"> <img src="icons/openal-original.svg" alt="OpenAL" width="40" height="40"> <img src="icons/opencv-original.svg" alt="OpenCV" width="40" height="40"> <img src="icons/nvidia-original.svg" alt="CUDA" width="40" height="40"> <img src="icons/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"> <img src="icons/keras-original.svg" alt="Keras" width="40" height="40"> <img src="icons/numpy-original.svg" alt="NumPy" width="40" height="40"> <img src="icons/git-original.svg" alt="Git" width="40" height="40">
+</div>
+
 ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/mnet.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hobbit.jpg) ![image](https://raw.githubusercontent.com/AmmarkoV/AmmarkoV/master/images/hamlet.jpg)
 
 
