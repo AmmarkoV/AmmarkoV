@@ -31,6 +31,14 @@ Ammar Qammaz
   <a href="https://www.deviantart.com/ammarkov1"><img src="icons/deviantart.svg" alt="DeviantArt"></a>
 </div>
 
+
+
+<div align="center">
+  <a href="https://committers.top/greece"><img src="icons/committers.svg" alt="Top 50 active GitHub developers in Greece"></a>
+  <a href="https://gitranks.com/profile/AmmarkoV"><img src="icons/gitranks.svg" alt="GitRanks: Elite 1 Global Top 3%"></a>
+</div>
+
+
 <div align="center">
   <img src="icons/c-original.svg" alt="C" width="40" height="40"> <img src="icons/cplusplus-original.svg" alt="C++" width="40" height="40"> <img src="icons/python-original.svg" alt="Python" width="40" height="40"> <img src="icons/java-original.svg" alt="Java" width="40" height="40"> <img src="icons/bash-original.svg" alt="Bash" width="40" height="40"> <img src="icons/php-original.svg" alt="PHP" width="40" height="40"> <img src="icons/mysql-original.svg" alt="MySQL" width="40" height="40"> <img src="icons/matlab-original.svg" alt="Matlab" width="40" height="40"> <img src="icons/latex-original.svg" alt="LaTeX" width="40" height="40">
   <br/><br/>
@@ -43,8 +51,6 @@ Ammar Qammaz
 
 <div align="center">
 <a href="https://github.com/AmmarkoV/AmmarkoV/raw/master/pdf/Ammar_Qammaz_CV.pdf"><img src="icons/cv.jpg" alt="AmmarkoV's CV"></a>
-<a href="https://committers.top/greece"><img src="icons/committers.svg" alt="Top 50 active GitHub developers in Greece"></a>
-<a href="https://gitranks.com/profile/AmmarkoV"><img src="icons/gitranks.svg" alt="GitRanks: Elite 1 Global Top 3%"></a>
 </div>
 
 
