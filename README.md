@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 Ammar Qammaz a.k.a. AmmarkoV
+</div>
 ==============
 
 <div align="center">
